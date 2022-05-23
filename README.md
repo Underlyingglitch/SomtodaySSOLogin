@@ -1,6 +1,6 @@
 # SomtodaySSOLogin
 
-Helper tool to get the credentials for the SomToday API using SSO credentials
+Helper tool to get the credentials for the SomToday API using SSO login
 
 ## Installing
 
