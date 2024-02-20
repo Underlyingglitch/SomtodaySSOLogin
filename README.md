@@ -2,6 +2,10 @@
 
 Helper tool to get the credentials for the SomToday API using SSO login
 
+## Project no longer maintained.
+
+Feel free to use the code in your own project.
+
 ## Installing
 
 - Clone the repository `git clone https://github.com/Underlyingglitch/SomtodaySSOLogin`
